@@ -1,6 +1,8 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bbXoBqEIAIosCEWo3zGYXQ.gif)]
 <h1 align="center">Hi 👋, I'm Yaswanth Kumar Eddala</h1>
 <h3 align="center">A passionate Cloud specialist with expertise in AWS and Azure, skilled in infrastructure automation and optimization.</h3>
 
+(img align="right" alt="Coding" width="400" src="https://klizos.com/wp-content/uploads/image2-1.gif")
 - 🔭 I’m currently working on [AWS VPC](https://github.com/vpcproject)
 
 - 🌱 I’m currently learning **Terraform**
